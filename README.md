@@ -1,5 +1,5 @@
 ******************************
-* CS 143 - Compilers -  2018 *
+# CS 143 - Compilers -  2018 *
 ******************************
 
 Programming Project 1: Lexical Analysis
